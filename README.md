@@ -7,3 +7,5 @@
 Запустите Maven проект через свой IDE
 
 Пользователи: (login: admin, password: 123)
+
+зайдите в localhost:8080/login сперва 
