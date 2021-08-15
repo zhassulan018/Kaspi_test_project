@@ -6,6 +6,8 @@
 Настраивайте Tomcat на вашем компьютере
 Запустите Maven проект через свой IDE
 
+зайдите в localhost:8080/login 
+
 Пользователи: (login: admin, password: 123)
 
-зайдите в localhost:8080/login сперва 
+
